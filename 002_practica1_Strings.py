@@ -1,6 +1,6 @@
-# JonathanBN 22310188
+# JonathanBN 
 ## STRINGS
 var1='Esto es un "string"\n'
 var2="Esto es un 'string'"
-var3="Hola esta es la practica uno y se veran los strings"
+var3='"print()" se utiliza para imprimir valores en la consola.'
 print(var3)

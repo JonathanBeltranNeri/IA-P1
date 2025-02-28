@@ -1,4 +1,4 @@
-# JonathanBN 22310188
+# JonathanBN 
 ## CONCATENAR
 var1="Hola"+"bienvenido"
 print(var1)

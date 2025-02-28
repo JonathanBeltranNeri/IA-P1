@@ -1,4 +1,4 @@
-# JonathanBN 22310188
+# JonathanBN 
 ## upper(), lower() y title() 
 nombre = "jonathan beltran neri"
 nombre = nombre.title()
